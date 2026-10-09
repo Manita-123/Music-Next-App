@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar techniques, chords, scales, and soloing with practical lessons.",
+      "price": 149.99,
+      "instructor": "Michael Smith",
+      "isFeatured": false,
+      "image": "/courses/advanced-guitar.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your piano journey by learning basic notes, chords, scales, and simple songs.",
+      "price": 89.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Web Development Fundamentals",
+      "slug": "web-development-fundamentals",
+      "description": "Learn HTML, CSS, and JavaScript to build modern and responsive websites from scratch.",
+      "price": 129.99,
+      "instructor": "David Wilson",
+      "isFeatured": true,
+      "image": "/courses/web-development.jpg"
+    },
+    {
+      "id": 5,
+      "title": "React.js Complete Course",
+      "slug": "reactjs-complete-course",
+      "description": "Learn React.js from fundamentals to advanced concepts and build real-world applications.",
+      "price": 159.99,
+      "instructor": "Sarah Williams",
+      "isFeatured": true,
+      "image": "/courses/react.jpg"
+    },
+    {
+      "id": 6,
+      "title": "JavaScript Masterclass",
+      "slug": "javascript-masterclass",
+      "description": "Master modern JavaScript including ES6+, DOM manipulation, asynchronous programming, and APIs.",
+      "price": 139.99,
+      "instructor": "Robert Brown",
+      "isFeatured": false,
+      "image": "/courses/javascript.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Digital Marketing",
+      "slug": "digital-marketing",
+      "description": "Learn SEO, social media marketing, content marketing, and online advertising strategies.",
+      "price": 79.99,
+      "instructor": "Jessica Davis",
+      "isFeatured": false,
+      "image": "/courses/digital-marketing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "UI/UX Design",
+      "slug": "ui-ux-design",
+      "description": "Learn user interface and user experience design principles using modern design tools and techniques.",
+      "price": 109.99,
+      "instructor": "Daniel Miller",
+      "isFeatured": true,
+      "image": "/courses/ui-ux.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Python Programming",
+      "slug": "python-programming",
+      "description": "Learn Python programming from the basics and build practical applications using core concepts.",
+      "price": 119.99,
+      "instructor": "James Anderson",
+      "isFeatured": false,
+      "image": "/courses/python.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Photography Basics",
+      "slug": "photography-basics",
+      "description": "Learn photography fundamentals including camera settings, composition, lighting, and editing.",
+      "price": 69.99,
+      "instructor": "Olivia Taylor",
+      "isFeatured": false,
+      "image": "/courses/photography.jpg"
+    }
+  ]
+}
