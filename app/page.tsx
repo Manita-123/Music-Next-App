@@ -4,7 +4,6 @@ export default function Home() {
   return (
     
       <main className="min-h-screen bg-black/96 antialiased bg-grid-white/[0.02]">
-        <h1 className="text-2xl text-center mx-auto" >Home Page</h1>
         <HeroSection/>
       </main>
   );
