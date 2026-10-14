@@ -1,10 +1,18 @@
-import HeroSection from "@/components/ui/HeroSection";
+import HeroSection from "@/components/HeroSection";
+import FeatureSection from "@/components/FeatureSection"
+import WhyChooseUs from "@/components/WhyChooseUs";
+import TestimonialCards from "@/components/TestimonialCards";
+import UpcomingWebinar from "@/components/UpcomingWebinar";
 
 export default function Home() {
   return (
     
       <main className="min-h-screen bg-black/96 antialiased bg-grid-white/[0.02]">
         <HeroSection/>
+        <FeatureSection/>
+        <WhyChooseUs/>
+        <TestimonialCards/>
+        <UpcomingWebinar/>
       </main>
   );
 }
