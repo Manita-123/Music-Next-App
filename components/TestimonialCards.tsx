@@ -56,11 +56,11 @@ const musicTestimonials = [
 
 const TestimonialCards = () => {
   return (
-   <section className="relative flex min-h-[400px] w-full flex-col items-center justify-center overflow-hidden dark:bg-black dark:bg-grid-white/[0.2]">
+   <section className="relative flex min-h-100 w-full flex-col items-center justify-center overflow-hidden dark:bg-black dark:bg-grid-white/[0.2]">
       <div
         className={cn(
           "absolute inset-0",
-          "[background-size:20px_20px]",
+          "[b-size:20pgx_20px]",
           "bg-[radial-gradient(#d4d4d4_1px,transparent_1px)]",
           "dark:bg-[radial-gradient(#404040_1px,transparent_1px)]"
         )}

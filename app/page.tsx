@@ -3,6 +3,8 @@ import FeatureSection from "@/components/FeatureSection"
 import WhyChooseUs from "@/components/WhyChooseUs";
 import TestimonialCards from "@/components/TestimonialCards";
 import UpcomingWebinar from "@/components/UpcomingWebinar";
+import Instructors from "@/components/Instructors";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -13,6 +15,8 @@ export default function Home() {
         <WhyChooseUs/>
         <TestimonialCards/>
         <UpcomingWebinar/>
+        <Instructors/>
+        <Footer/>
       </main>
   );
 }
